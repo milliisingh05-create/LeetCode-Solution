@@ -1,13 +1,30 @@
-# LeetCode Solutions
+# 🚀 LeetCode Solutions
 
-👩‍💻 Language: C++
+Welcome to my LeetCode solutions repository!
 
-## Progress
+- 💻 **Language:** C++
+- 🎯 **Goal:** Solve LeetCode problems consistently and improve Data Structures & Algorithms.
+- 📈 **Repository:** Updated regularly.
 
-- ✅ Easy: 1
-- 🟡 Medium: 0
-- 🔴 Hard: 0
+---
+
+## 📊 Progress
+
+| Difficulty | Solved |
+|------------|-------:|
+| 🟢 Easy | 1 |
+| 🟡 Medium | 2 |
+| 🔴 Hard | 0 |
+| **Total** | **3** |
+
+---
+
+## 📂 Solutions
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | Two Sum | Easy |
+| 1 | Two Sum | 🟢 Easy |
+| 2 | Add Two Numbers | 🟡 Medium |
+| 3 | Longest Substring Without Repeating Characters | 🟡 Medium |
+
+---
